@@ -1,0 +1,10 @@
+setup.py
+Cards.egg-info/PKG-INFO
+Cards.egg-info/SOURCES.txt
+Cards.egg-info/dependency_links.txt
+Cards.egg-info/not-zip-safe
+Cards.egg-info/top_level.txt
+Deck/Deck.py
+Deck/__init__.py
+Solitaire/Solitaire.py
+Solitaire/__init__.py
